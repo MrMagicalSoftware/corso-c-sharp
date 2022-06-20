@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/empioEmojii/bin/Debug/net5.0/empioEmojii.deps.json
+/Users/mr/Desktop/c#/empioEmojii/bin/Debug/net5.0/empioEmojii.runtimeconfig.json
+/Users/mr/Desktop/c#/empioEmojii/bin/Debug/net5.0/empioEmojii.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/empioEmojii/bin/Debug/net5.0/empioEmojii.dll
+/Users/mr/Desktop/c#/empioEmojii/bin/Debug/net5.0/ref/empioEmojii.dll
+/Users/mr/Desktop/c#/empioEmojii/bin/Debug/net5.0/empioEmojii.pdb
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.AssemblyInfo.cs
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.dll
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/ref/empioEmojii.dll
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.pdb
+/Users/mr/Desktop/c#/empioEmojii/obj/Debug/net5.0/empioEmojii.genruntimeconfig.cache

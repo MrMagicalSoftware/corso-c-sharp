@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/bin/Debug/net5.0/EsercizioValoreAssoluto.deps.json
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/bin/Debug/net5.0/EsercizioValoreAssoluto.runtimeconfig.json
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/bin/Debug/net5.0/EsercizioValoreAssoluto.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/bin/Debug/net5.0/EsercizioValoreAssoluto.dll
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/bin/Debug/net5.0/ref/EsercizioValoreAssoluto.dll
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/bin/Debug/net5.0/EsercizioValoreAssoluto.pdb
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.AssemblyInfo.cs
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.dll
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/ref/EsercizioValoreAssoluto.dll
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.pdb
+/Users/mr/Desktop/c#/EsercizioValoreAssoluto/obj/Debug/net5.0/EsercizioValoreAssoluto.genruntimeconfig.cache

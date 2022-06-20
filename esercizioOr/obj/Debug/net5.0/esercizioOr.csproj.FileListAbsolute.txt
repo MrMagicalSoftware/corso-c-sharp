@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/esercizioOr/bin/Debug/net5.0/esercizioOr.deps.json
+/Users/mr/Desktop/c#/esercizioOr/bin/Debug/net5.0/esercizioOr.runtimeconfig.json
+/Users/mr/Desktop/c#/esercizioOr/bin/Debug/net5.0/esercizioOr.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/esercizioOr/bin/Debug/net5.0/esercizioOr.dll
+/Users/mr/Desktop/c#/esercizioOr/bin/Debug/net5.0/ref/esercizioOr.dll
+/Users/mr/Desktop/c#/esercizioOr/bin/Debug/net5.0/esercizioOr.pdb
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.AssemblyInfo.cs
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.dll
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/ref/esercizioOr.dll
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.pdb
+/Users/mr/Desktop/c#/esercizioOr/obj/Debug/net5.0/esercizioOr.genruntimeconfig.cache

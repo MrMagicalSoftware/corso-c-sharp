@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/esercizivari/bin/Debug/net5.0/esercizivari.deps.json
+/Users/mr/Desktop/c#/esercizivari/bin/Debug/net5.0/esercizivari.runtimeconfig.json
+/Users/mr/Desktop/c#/esercizivari/bin/Debug/net5.0/esercizivari.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/esercizivari/bin/Debug/net5.0/esercizivari.dll
+/Users/mr/Desktop/c#/esercizivari/bin/Debug/net5.0/ref/esercizivari.dll
+/Users/mr/Desktop/c#/esercizivari/bin/Debug/net5.0/esercizivari.pdb
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.AssemblyInfo.cs
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.dll
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/ref/esercizivari.dll
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.pdb
+/Users/mr/Desktop/c#/esercizivari/obj/Debug/net5.0/esercizivari.genruntimeconfig.cache

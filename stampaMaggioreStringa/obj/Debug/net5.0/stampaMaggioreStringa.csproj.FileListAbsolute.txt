@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/stampaMaggioreStringa/bin/Debug/net5.0/stampaMaggioreStringa.deps.json
+/Users/mr/Desktop/c#/stampaMaggioreStringa/bin/Debug/net5.0/stampaMaggioreStringa.runtimeconfig.json
+/Users/mr/Desktop/c#/stampaMaggioreStringa/bin/Debug/net5.0/stampaMaggioreStringa.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/stampaMaggioreStringa/bin/Debug/net5.0/stampaMaggioreStringa.dll
+/Users/mr/Desktop/c#/stampaMaggioreStringa/bin/Debug/net5.0/ref/stampaMaggioreStringa.dll
+/Users/mr/Desktop/c#/stampaMaggioreStringa/bin/Debug/net5.0/stampaMaggioreStringa.pdb
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.AssemblyInfo.cs
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.dll
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/ref/stampaMaggioreStringa.dll
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.pdb
+/Users/mr/Desktop/c#/stampaMaggioreStringa/obj/Debug/net5.0/stampaMaggioreStringa.genruntimeconfig.cache

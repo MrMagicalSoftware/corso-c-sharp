@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/esercizioRipasso/bin/Debug/net5.0/esercizioRipasso.deps.json
+/Users/mr/Desktop/c#/esercizioRipasso/bin/Debug/net5.0/esercizioRipasso.runtimeconfig.json
+/Users/mr/Desktop/c#/esercizioRipasso/bin/Debug/net5.0/esercizioRipasso.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/esercizioRipasso/bin/Debug/net5.0/esercizioRipasso.dll
+/Users/mr/Desktop/c#/esercizioRipasso/bin/Debug/net5.0/ref/esercizioRipasso.dll
+/Users/mr/Desktop/c#/esercizioRipasso/bin/Debug/net5.0/esercizioRipasso.pdb
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.AssemblyInfo.cs
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.dll
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/ref/esercizioRipasso.dll
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.pdb
+/Users/mr/Desktop/c#/esercizioRipasso/obj/Debug/net5.0/esercizioRipasso.genruntimeconfig.cache

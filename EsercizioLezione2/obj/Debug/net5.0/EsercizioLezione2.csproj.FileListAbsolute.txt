@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/EsercizioLezione2/bin/Debug/net5.0/EsercizioLezione2.deps.json
+/Users/mr/Desktop/c#/EsercizioLezione2/bin/Debug/net5.0/EsercizioLezione2.runtimeconfig.json
+/Users/mr/Desktop/c#/EsercizioLezione2/bin/Debug/net5.0/EsercizioLezione2.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/EsercizioLezione2/bin/Debug/net5.0/EsercizioLezione2.dll
+/Users/mr/Desktop/c#/EsercizioLezione2/bin/Debug/net5.0/ref/EsercizioLezione2.dll
+/Users/mr/Desktop/c#/EsercizioLezione2/bin/Debug/net5.0/EsercizioLezione2.pdb
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.AssemblyInfo.cs
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.dll
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/ref/EsercizioLezione2.dll
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.pdb
+/Users/mr/Desktop/c#/EsercizioLezione2/obj/Debug/net5.0/EsercizioLezione2.genruntimeconfig.cache

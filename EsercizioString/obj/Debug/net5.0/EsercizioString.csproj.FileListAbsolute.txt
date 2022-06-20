@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/EsercizioString/bin/Debug/net5.0/EsercizioString.deps.json
+/Users/mr/Desktop/c#/EsercizioString/bin/Debug/net5.0/EsercizioString.runtimeconfig.json
+/Users/mr/Desktop/c#/EsercizioString/bin/Debug/net5.0/EsercizioString.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/EsercizioString/bin/Debug/net5.0/EsercizioString.dll
+/Users/mr/Desktop/c#/EsercizioString/bin/Debug/net5.0/ref/EsercizioString.dll
+/Users/mr/Desktop/c#/EsercizioString/bin/Debug/net5.0/EsercizioString.pdb
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.AssemblyInfo.cs
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.dll
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/ref/EsercizioString.dll
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.pdb
+/Users/mr/Desktop/c#/EsercizioString/obj/Debug/net5.0/EsercizioString.genruntimeconfig.cache

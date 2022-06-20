@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/EserciziCicli/bin/Debug/net5.0/EserciziCicli.deps.json
+/Users/mr/Desktop/c#/EserciziCicli/bin/Debug/net5.0/EserciziCicli.runtimeconfig.json
+/Users/mr/Desktop/c#/EserciziCicli/bin/Debug/net5.0/EserciziCicli.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/EserciziCicli/bin/Debug/net5.0/EserciziCicli.dll
+/Users/mr/Desktop/c#/EserciziCicli/bin/Debug/net5.0/ref/EserciziCicli.dll
+/Users/mr/Desktop/c#/EserciziCicli/bin/Debug/net5.0/EserciziCicli.pdb
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.AssemblyInfo.cs
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.dll
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/ref/EserciziCicli.dll
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.pdb
+/Users/mr/Desktop/c#/EserciziCicli/obj/Debug/net5.0/EserciziCicli.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/bin/Debug/net5.0/trovaMaggiore3Numeri.deps.json
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/bin/Debug/net5.0/trovaMaggiore3Numeri.runtimeconfig.json
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/bin/Debug/net5.0/trovaMaggiore3Numeri.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/bin/Debug/net5.0/trovaMaggiore3Numeri.dll
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/bin/Debug/net5.0/ref/trovaMaggiore3Numeri.dll
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/bin/Debug/net5.0/trovaMaggiore3Numeri.pdb
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.AssemblyInfo.cs
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.dll
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/ref/trovaMaggiore3Numeri.dll
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.pdb
+/Users/mr/Desktop/c#/trovaMaggiore3Numeri/obj/Debug/net5.0/trovaMaggiore3Numeri.genruntimeconfig.cache

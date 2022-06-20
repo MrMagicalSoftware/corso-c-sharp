@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/esercizioSwithCase/bin/Debug/net5.0/esercizioSwithCase.deps.json
+/Users/mr/Desktop/c#/esercizioSwithCase/bin/Debug/net5.0/esercizioSwithCase.runtimeconfig.json
+/Users/mr/Desktop/c#/esercizioSwithCase/bin/Debug/net5.0/esercizioSwithCase.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/esercizioSwithCase/bin/Debug/net5.0/esercizioSwithCase.dll
+/Users/mr/Desktop/c#/esercizioSwithCase/bin/Debug/net5.0/ref/esercizioSwithCase.dll
+/Users/mr/Desktop/c#/esercizioSwithCase/bin/Debug/net5.0/esercizioSwithCase.pdb
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.AssemblyInfo.cs
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.dll
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/ref/esercizioSwithCase.dll
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.pdb
+/Users/mr/Desktop/c#/esercizioSwithCase/obj/Debug/net5.0/esercizioSwithCase.genruntimeconfig.cache

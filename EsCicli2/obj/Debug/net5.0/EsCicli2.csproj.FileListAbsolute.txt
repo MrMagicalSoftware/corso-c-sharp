@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/EsCicli2/bin/Debug/net5.0/EsCicli2.deps.json
+/Users/mr/Desktop/c#/EsCicli2/bin/Debug/net5.0/EsCicli2.runtimeconfig.json
+/Users/mr/Desktop/c#/EsCicli2/bin/Debug/net5.0/EsCicli2.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/EsCicli2/bin/Debug/net5.0/EsCicli2.dll
+/Users/mr/Desktop/c#/EsCicli2/bin/Debug/net5.0/ref/EsCicli2.dll
+/Users/mr/Desktop/c#/EsCicli2/bin/Debug/net5.0/EsCicli2.pdb
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.AssemblyInfo.cs
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.dll
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/ref/EsCicli2.dll
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.pdb
+/Users/mr/Desktop/c#/EsCicli2/obj/Debug/net5.0/EsCicli2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/trovaMaggiore/bin/Debug/net5.0/trovaMaggiore.deps.json
+/Users/mr/Desktop/c#/trovaMaggiore/bin/Debug/net5.0/trovaMaggiore.runtimeconfig.json
+/Users/mr/Desktop/c#/trovaMaggiore/bin/Debug/net5.0/trovaMaggiore.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/trovaMaggiore/bin/Debug/net5.0/trovaMaggiore.dll
+/Users/mr/Desktop/c#/trovaMaggiore/bin/Debug/net5.0/ref/trovaMaggiore.dll
+/Users/mr/Desktop/c#/trovaMaggiore/bin/Debug/net5.0/trovaMaggiore.pdb
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.AssemblyInfo.cs
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.dll
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/ref/trovaMaggiore.dll
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.pdb
+/Users/mr/Desktop/c#/trovaMaggiore/obj/Debug/net5.0/trovaMaggiore.genruntimeconfig.cache

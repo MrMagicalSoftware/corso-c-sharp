@@ -1,0 +1,15 @@
+/Users/mr/Desktop/c#/sommaTraDouble/bin/Debug/net5.0/sommaTraDouble.deps.json
+/Users/mr/Desktop/c#/sommaTraDouble/bin/Debug/net5.0/sommaTraDouble.runtimeconfig.json
+/Users/mr/Desktop/c#/sommaTraDouble/bin/Debug/net5.0/sommaTraDouble.runtimeconfig.dev.json
+/Users/mr/Desktop/c#/sommaTraDouble/bin/Debug/net5.0/sommaTraDouble.dll
+/Users/mr/Desktop/c#/sommaTraDouble/bin/Debug/net5.0/ref/sommaTraDouble.dll
+/Users/mr/Desktop/c#/sommaTraDouble/bin/Debug/net5.0/sommaTraDouble.pdb
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.csproj.AssemblyReference.cache
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.AssemblyInfoInputs.cache
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.AssemblyInfo.cs
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.dll
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/ref/sommaTraDouble.dll
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.pdb
+/Users/mr/Desktop/c#/sommaTraDouble/obj/Debug/net5.0/sommaTraDouble.genruntimeconfig.cache
